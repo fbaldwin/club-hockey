@@ -320,6 +320,7 @@ tr:hover{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: auto;
 }
 
 .contact::before {    
@@ -339,4 +340,5 @@ tr:hover{
     color: #000000;  
     font-size: 40px;
     padding-bottom: 220px;
+    margin:auto;
 }
