@@ -323,7 +323,7 @@ tr:hover{
     height: 50vh;
     width: 100%;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     margin: auto;
 }
@@ -344,6 +344,7 @@ tr:hover{
     position: relative;
     color: #000000;  
     font-size: 40px;
+    padding-top: 7.5px;
     margin: auto;
 }
 
