@@ -57,6 +57,7 @@ h1 {
     color: #FFFFFF;
     font-size: 25px;
     padding: 20px 10px 20px 10px;
+    text-align: center;
 }
 
 #logo2 {
@@ -343,8 +344,7 @@ tr:hover{
     position: relative;
     color: #000000;  
     font-size: 40px;
-    padding-bottom: 220px;
-    margin:auto;
+    margin: auto;
 }
 
 .form {
