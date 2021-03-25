@@ -246,6 +246,8 @@ td {
     border-top: 2px solid #000000;
     border-right: 2px solid #000000;
     padding: 5px 5px 5px 5px;   
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10pt;
 }
 
 tr:nth-child(odd){
@@ -270,6 +272,7 @@ tr:hover{
     vertical-align: middle;
     margin: auto;
     font-size: 10pt;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .rowhead {
@@ -278,6 +281,7 @@ tr:hover{
     vertical-align: middle;
     margin: auto;
     font-size: 10pt;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .schedule {
