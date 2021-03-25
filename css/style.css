@@ -209,13 +209,13 @@ footer p {
     height: 50vh;
     width: 100%;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: flex-end;
 }
 
 .roster::before {    
       content: "";
-      background-image: url(../images/team_photo.jpg);
+      background-image: url(../images/huddle.jpg);
       background-size: cover; 
       position:absolute;
       top: 0px;
@@ -229,7 +229,7 @@ footer p {
     position: relative;
     color: #000000;  
     font-size: 40px;
-    padding-right: 20px;
+    padding-right: 10px;
     padding-bottom: 15px;
 }
 
