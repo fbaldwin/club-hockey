@@ -430,7 +430,7 @@ tr:hover{
     
 }
 
-@media (min-width: 750px) and (max-width: 900px) {
+@media (min-width: 750px) {
 
     header {
         background-color: #00274C;
